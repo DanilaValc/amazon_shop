@@ -1,0 +1,41 @@
+2-copy-of-code
+# Файлы операционных систем
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Файлы редакторов/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Логи
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime данные
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Директории зависимостей
+node_modules/
+jspm_packages/
+
+# Кэш
+.npm
+.eslintcache
+.yarn-integrity
+
+# Временные файлы
+.tmp
+.temp
